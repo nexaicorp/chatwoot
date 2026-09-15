@@ -1,25 +1,6 @@
-<svg
-  width="16"
-  height="16"
-  viewBox="0 0 16 16"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <g clip-path="url(#woot-logo-clip-2342424e23u32098)">
-    <path
-      d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z"
-      fill="#2781F6"
-    />
-    <path
-      d="M11.4172 11.4172H7.70831C5.66383 11.4172 4 9.75328 4 7.70828C4 5.66394 5.66383 4 7.70835 4C9.75339 4 11.4172 5.66394 11.4172 7.70828V11.4172Z"
-      fill="white"
-      stroke="white"
-      stroke-width="0.1875"
-    />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="104" fill="#EE254F"/>
+  <g transform="translate(76 182) scale(0.5646)" fill="#FFFFFF" fill-rule="evenodd">
+    <path d="M-0 261.9l105.55 -1.33 50.62 -122.69c22.65,-55.18 95.82,-52.01 116.33,-0.01l47.57 122.59 215.96 0 101.57 -255.04 -104.22 0.44 -106.43 245.99 -69.39 -161.64c-9.97,-23.22 -30.71,-47.4 -51.18,-62.11 -70.69,-50.78 -183.72,-31.98 -229.64,50.18l-76.73 183.61z"/>
   </g>
-  <defs>
-    <clipPath id="woot-logo-clip-2342424e23u32098">
-      <rect width="16" height="16" fill="white" />
-    </clipPath>
-  </defs>
 </svg>
